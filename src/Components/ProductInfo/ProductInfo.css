@@ -1,0 +1,10 @@
+.dropdown {
+    
+}
+
+.product-information {
+    transition: 2s ease-in-out;
+}
+
+.product-information:before {
+}

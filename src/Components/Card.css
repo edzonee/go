@@ -1,0 +1,27 @@
+.card {
+  box-shadow: 0 5px 10px 5px gainsboro;
+  width: 350px;
+  height: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.red {
+  color: #ff0000;
+}
+
+.product-image {
+  width: 150px;
+  height: 150px;
+}
+
+.product-info {
+  text-align: center;
+}
+
+.discount {
+  color: rgb(102, 102, 102);
+  text-decoration: line-through;
+  font-weight: normal;
+}
